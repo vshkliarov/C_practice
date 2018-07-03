@@ -4,6 +4,7 @@
 *                   # C_practice
 *
 *        vshklirov                 03.07.2018
-*                 *small programs*
+*                 
+*            *small programs repository*
 ********************************************************/
 
